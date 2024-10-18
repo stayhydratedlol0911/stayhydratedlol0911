@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/909387633103360021)](https://discord.com/users/909387633103360021)
+[![Discord Presence](https://lanyard.cnrad.dev/api/99387633103360021)](https://discord.com/users/99387633103360021)
 ```python
 stayhydratedlol = 'Dev'
 print(f'Follow {stayhydratedlol} on Github')
