@@ -7,7 +7,7 @@ print(f'Follow {stayhydratedlol} on Github')
        OS  :  Ubuntu 22.04 LTS
    Python  :  python 3.9.13
 Languages  :  Python, Java, Js, Batch, C, Lua, HTML/CSS
-  Discord  :  discord.gg/
+  Discord  :  discord.gg/alton
    Server  :  None
 ```
 
